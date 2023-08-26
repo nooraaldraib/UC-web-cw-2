@@ -1,0 +1,9 @@
+.card{
+    width: 500px;
+    background-color: darkseagreen;
+    text-align: center;
+}
+
+#dish-name{
+    color: aliceblue;
+}
